@@ -4,6 +4,6 @@
 	<title>activitydiagram</title>
 </head>
 <body>
-	<img src="use.jpg">
+	<img src="use case diagram.jpg">
 </body>
 </html>
